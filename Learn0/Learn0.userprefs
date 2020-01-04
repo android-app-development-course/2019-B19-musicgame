@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PageView.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Play_script\BGM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PageView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\ReaderSong.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\RankShow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\key_show.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\Touch_text.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\readscore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\Destory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\AnimEvents.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\TitleSence.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\SongData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\stop_bg.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\Note.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Load_script\AsyncLoadScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\Mouse_text.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_script\Move.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
